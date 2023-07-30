@@ -7,5 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Liam Jimenez",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "css-loader": "^6.8.1",
+    "express": "^4.18.2",
+    "html-webpack-plugin": "^5.5.3",
+    "nodemon": "^3.0.1",
+    "webpack": "^5.88.2",
+    "webpack-dev-middleware": "^6.1.1"
+  }
 }
